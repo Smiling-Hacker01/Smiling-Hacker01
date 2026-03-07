@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-<h1 align="center">Hi 👋, I'm Vishal Singh Kushwaha</h1>
+<h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">Backend Software Engineer | Scalable Systems | Distributed Systems Enthusiast</h3>
 
 <p align="center">
