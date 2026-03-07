@@ -121,15 +121,12 @@ Cybersecurity awareness platform focused on digital safety.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
+
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Smiling-Hacker01&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Smiling-Hacker01&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smiling-Hacker01&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=Smiling-Hacker01&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -139,11 +136,6 @@ Cybersecurity awareness platform focused on digital safety.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smiling-Hacker01&theme=tokyo-night"/>
 
----
-
-# 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Smiling-Hacker01&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 ---
 
