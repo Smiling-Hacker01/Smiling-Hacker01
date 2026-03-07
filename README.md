@@ -160,7 +160,7 @@ Cybersecurity awareness platform focused on digital safety.
 
 # 🧠 Coding Profiles
 
-<a href="https://leetcode.com/your-username">
+<a href="https://leetcode.com/u/smiling-hacker01/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
