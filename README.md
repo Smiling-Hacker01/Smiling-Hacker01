@@ -66,7 +66,7 @@ const vishal = {
 | Area | What I Built |
 |------|-------------|
 | 📱 **Ad Infrastructure** | Google AdMob / GMA backend services |
-| 🔐 **Auth Systems** | JWT-based authentication & authorization |
+| 🔐 **Auth Systems** | JWT & MFA-based authentication & authorization |
 | ⚡ **Performance** | Redis caching with in-memory fallback |
 | 🛡️ **API Security** | Rate limiting, input validation layers |
 | 📊 **Feed Optimization** | Cursor pagination + DB indexing |
