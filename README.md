@@ -9,7 +9,7 @@
 ░░░╚═╝░░░╚═╝╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Backend+Engineer+%7C+Node.js+%2B+TypeScript;Multi-Tenant+SaaS+%7C+Distributed+Systems;Event-Driven+Architecture+%7C+Payment+Infra;Copyright+Moderation+%7C+Redis+%7C+BullMQ;Building+Infrastructure+That+Scales+at+400K%2B+Users" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Backend+Engineer+%7C+Node.js+%2B+TypeScript;Multi-Tenant+SaaS+%7C+Distributed+Systems;Event-Driven+Architecture+%7C+Payment+Infra;Copyright+Moderation+%7C+Redis+%7C+BullMQ;Building+Infrastructure+That+Scales%2B+Users" alt="Typing SVG" />
 
 <br/>
 
