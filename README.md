@@ -225,12 +225,12 @@ const vishal = {
 
 ## `$ git log --stat`
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Smiling-Hacker01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smiling-Hacker01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
 
-</div>
+</div>  -->
 
 <div align="center">
 
