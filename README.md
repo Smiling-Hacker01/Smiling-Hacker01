@@ -1,23 +1,33 @@
 <div align="center">
 
-```
-██╗░░░██╗██╗░██████╗██╗░░██╗░█████╗░██╗░░░░░
-██║░░░██║██║██╔════╝██║░░██║██╔══██╗██║░░░░░
-╚██╗░██╔╝██║╚█████╗░███████║███████║██║░░░░░
-░╚████╔╝░██║░╚═══██╗██╔══██║██╔══██║██║░░░░░
-░░╚██╔╝░░██║██████╔╝██║░░██║██║░░██║███████╗
-░░░╚═╝░░░╚═╝╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Backend+Engineer+%7C+Node.js+%2B+TypeScript;Multi-Tenant+SaaS+%7C+Distributed+Systems;Event-Driven+Architecture+%7C+Payment+Infra;Copyright+Moderation+%7C+Redis+%7C+BullMQ;Building+Infrastructure+That+Scales" alt="Typing SVG" />
+<a href="https://portfolio-k2eyrrlbc-vishal-singh-kushwahas-projects-42351944.vercel.app/">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=200&section=header&text=Vishal%20Singh%20Kushwaha&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Platform%20Infrastructure&descAlignY=60&descSize=15&animation=fadeIn" alt="header"/>
+</a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sdevsk)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kushwahavishal311@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/smiling-hacker01/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-k2eyrrlbc-vishal-singh-kushwahas-projects-42351944.vercel.app/)
-![Profile Views](https://komarev.com/ghpvc/?username=Smiling-Hacker01&style=flat-square&color=00D9FF&label=Profile+Views)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Backend+Engineer+%7C+Node.js+%2B+TypeScript;Multi-Tenant+SaaS+%7C+Distributed+Systems;Event-Driven+Architecture+%7C+Payment+Infra;Copyright+Moderation+%7C+Redis+%7C+BullMQ;Building+Infrastructure+That+Scales" alt="Typing SVG"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/sdevsk">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:kushwahavishal311@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://leetcode.com/u/smiling-hacker01/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://portfolio-k2eyrrlbc-vishal-singh-kushwahas-projects-42351944.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Smiling-Hacker01&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Smiling-Hacker01?label=Followers&style=for-the-badge&color=00D9FF&logo=github&logoColor=white" alt="GitHub Followers"/>
+<img src="https://img.shields.io/badge/Open%20to-Work-00C853?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"/>
 
 </div>
 
