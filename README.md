@@ -19,7 +19,7 @@
 <a href="https://leetcode.com/u/smiling-hacker01/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
-<a href="https://portfolio-k2eyrrlbc-vishal-singh-kushwahas-projects-42351944.vercel.app/">
+<a href="https://portfolio-vsk-rust.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
